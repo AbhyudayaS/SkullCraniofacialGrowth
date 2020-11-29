@@ -57,21 +57,21 @@ crashlytics-build.properties
 # Custom
 *.log
 
-AndroidProjects/
+# AndroidProjects/
 
-Assets/Tools/
-Assets/Tools.meta
+# Assets/Tools/
+# Assets/Tools.meta
 
-Assets/Editor/x64/Bakery/
-Assets/Editor/x64/Bakery.meta
+# Assets/Editor/x64/Bakery/
+# Assets/Editor/x64/Bakery.meta
 
-Assets/Bakery/
-Assets/Bakery.meta
+# Assets/Bakery/
+# Assets/Bakery.meta
 
-Assets/BakeryLightmaps/
-Assets/BakeryLightmaps.meta
-Assets/Oculus/
-Assets/TextMesh Pro/
-Assets/StreamingAssets/
-Assets/Allegorithmic/
-Assets/Temp.meta
+# Assets/BakeryLightmaps/
+# Assets/BakeryLightmaps.meta
+# Assets/Oculus/
+# Assets/TextMesh Pro/
+# Assets/StreamingAssets/
+# Assets/Allegorithmic/
+# Assets/Temp.meta
