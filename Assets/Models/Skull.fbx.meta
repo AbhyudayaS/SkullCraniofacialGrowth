@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: d43ef6510f8198f4d889a64b0b93b631
+timeCreated: 1454936414
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Ethmoid_bone
+    100002: Frontal_bone
+    100004: Inferior_concha_L
+    100006: Inferior_concha_R
+    100008: Lacrimal_bone_L
+    100010: Lacrimal_bone_R
+    100012: Mandible
+    100014: Maxilla_bone_L
+    100016: Maxilla_bone_R
+    100018: Nasal_L
+    100020: Nasal_R
+    100022: Occipital_bone
+    100024: Palatine_bone_L
+    100026: Palatine_bone_R
+    100028: Parietal_bone_L
+    100030: Parietal_bone_R
+    100032: //RootNode
+    100034: Sphenoid_bone
+    100036: teeth1
+    100038: teeth10
+    100040: teeth11
+    100042: teeth12
+    100044: teeth13
+    100046: teeth14
+    100048: teeth15
+    100050: teeth16
+    100052: teeth17
+    100054: teeth18
+    100056: teeth19
+    100058: teeth2
+    100060: teeth20
+    100062: teeth21
+    100064: teeth22
+    100066: teeth23
+    100068: teeth24
+    100070: teeth25
+    100072: teeth26
+    100074: teeth27
+    100076: teeth28
+    100078: teeth29
+    100080: teeth3
+    100082: teeth30
+    100084: teeth31
+    100086: teeth32
+    100088: teeth4
+    100090: teeth5
+    100092: teeth6
+    100094: teeth7
+    100096: teeth8
+    100098: teeth9
+    100100: Temporal_bone_L
+    100102: Temporal_bone_R
+    100104: Vomer
+    100106: Zygomatic_bone_L
+    100108: Zygomatic_bone_R
+    400000: Ethmoid_bone
+    400002: Frontal_bone
+    400004: Inferior_concha_L
+    400006: Inferior_concha_R
+    400008: Lacrimal_bone_L
+    400010: Lacrimal_bone_R
+    400012: Mandible
+    400014: Maxilla_bone_L
+    400016: Maxilla_bone_R
+    400018: Nasal_L
+    400020: Nasal_R
+    400022: Occipital_bone
+    400024: Palatine_bone_L
+    400026: Palatine_bone_R
+    400028: Parietal_bone_L
+    400030: Parietal_bone_R
+    400032: //RootNode
+    400034: Sphenoid_bone
+    400036: teeth1
+    400038: teeth10
+    400040: teeth11
+    400042: teeth12
+    400044: teeth13
+    400046: teeth14
+    400048: teeth15
+    400050: teeth16
+    400052: teeth17
+    400054: teeth18
+    400056: teeth19
+    400058: teeth2
+    400060: teeth20
+    400062: teeth21
+    400064: teeth22
+    400066: teeth23
+    400068: teeth24
+    400070: teeth25
+    400072: teeth26
+    400074: teeth27
+    400076: teeth28
+    400078: teeth29
+    400080: teeth3
+    400082: teeth30
+    400084: teeth31
+    400086: teeth32
+    400088: teeth4
+    400090: teeth5
+    400092: teeth6
+    400094: teeth7
+    400096: teeth8
+    400098: teeth9
+    400100: Temporal_bone_L
+    400102: Temporal_bone_R
+    400104: Vomer
+    400106: Zygomatic_bone_L
+    400108: Zygomatic_bone_R
+    2300000: teeth1
+    2300002: teeth10
+    2300004: teeth11
+    2300006: teeth12
+    2300008: teeth13
+    2300010: teeth14
+    2300012: teeth15
+    2300014: teeth16
+    2300016: teeth17
+    2300018: teeth18
+    2300020: teeth19
+    2300022: teeth2
+    2300024: teeth20
+    2300026: teeth21
+    2300028: teeth22
+    2300030: teeth23
+    2300032: teeth24
+    2300034: teeth25
+    2300036: teeth26
+    2300038: teeth27
+    2300040: teeth28
+    2300042: teeth29
+    2300044: teeth3
+    2300046: teeth30
+    2300048: teeth31
+    2300050: teeth32
+    2300052: teeth4
+    2300054: teeth5
+    2300056: teeth6
+    2300058: teeth7
+    2300060: teeth8
+    2300062: teeth9
+    3300000: teeth1
+    3300002: teeth10
+    3300004: teeth11
+    3300006: teeth12
+    3300008: teeth13
+    3300010: teeth14
+    3300012: teeth15
+    3300014: teeth16
+    3300016: teeth17
+    3300018: teeth18
+    3300020: teeth19
+    3300022: teeth2
+    3300024: teeth20
+    3300026: teeth21
+    3300028: teeth22
+    3300030: teeth23
+    3300032: teeth24
+    3300034: teeth25
+    3300036: teeth26
+    3300038: teeth27
+    3300040: teeth28
+    3300042: teeth29
+    3300044: teeth3
+    3300046: teeth30
+    3300048: teeth31
+    3300050: teeth32
+    3300052: teeth4
+    3300054: teeth5
+    3300056: teeth6
+    3300058: teeth7
+    3300060: teeth8
+    3300062: teeth9
+    4300000: Occipital_bone
+    4300002: Temporal_bone_L
+    4300004: Temporal_bone_R
+    4300006: Frontal_bone
+    4300008: Parietal_bone_R
+    4300010: Maxilla_bone_L
+    4300012: Lacrimal_bone_R
+    4300014: Nasal_L
+    4300016: Parietal_bone_L
+    4300018: Nasal_R
+    4300020: Sphenoid_bone
+    4300022: Zygomatic_bone_R
+    4300024: Zygomatic_bone_L
+    4300026: Vomer
+    4300028: Lacrimal_bone_L
+    4300030: Ethmoid_bone
+    4300032: Palatine_bone_R
+    4300034: Palatine_bone_L
+    4300036: Inferior_concha_R
+    4300038: Maxilla_bone_R
+    4300040: Inferior_concha_L
+    4300042: Mandible
+    4300044: teeth1
+    4300046: teeth2
+    4300048: teeth3
+    4300050: teeth4
+    4300052: teeth5
+    4300054: teeth6
+    4300056: teeth7
+    4300058: teeth8
+    4300060: teeth9
+    4300062: teeth10
+    4300064: teeth11
+    4300066: teeth12
+    4300068: teeth13
+    4300070: teeth14
+    4300072: teeth15
+    4300074: teeth16
+    4300076: teeth17
+    4300078: teeth18
+    4300080: teeth19
+    4300082: teeth20
+    4300084: teeth21
+    4300086: teeth22
+    4300088: teeth23
+    4300090: teeth24
+    4300092: teeth25
+    4300094: teeth26
+    4300096: teeth27
+    4300098: teeth28
+    4300100: teeth29
+    4300102: teeth30
+    4300104: teeth31
+    4300106: teeth32
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Ethmoid_bone
+    13700002: Frontal_bone
+    13700004: Inferior_concha_L
+    13700006: Inferior_concha_R
+    13700008: Lacrimal_bone_L
+    13700010: Lacrimal_bone_R
+    13700012: Mandible
+    13700014: Maxilla_bone_L
+    13700016: Maxilla_bone_R
+    13700018: Nasal_L
+    13700020: Nasal_R
+    13700022: Occipital_bone
+    13700024: Palatine_bone_L
+    13700026: Palatine_bone_R
+    13700028: Parietal_bone_L
+    13700030: Parietal_bone_R
+    13700032: Sphenoid_bone
+    13700034: Temporal_bone_L
+    13700036: Temporal_bone_R
+    13700038: Vomer
+    13700040: Zygomatic_bone_L
+    13700042: Zygomatic_bone_R
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ethmoid_bone
+        weight: 1
+      - path: Frontal_bone
+        weight: 1
+      - path: Inferior_concha_L
+        weight: 1
+      - path: Inferior_concha_R
+        weight: 1
+      - path: Lacrimal_bone_L
+        weight: 1
+      - path: Lacrimal_bone_R
+        weight: 1
+      - path: Mandible
+        weight: 1
+      - path: Maxilla_bone_L
+        weight: 1
+      - path: Maxilla_bone_R
+        weight: 1
+      - path: Nasal_L
+        weight: 1
+      - path: Nasal_R
+        weight: 1
+      - path: Occipital_bone
+        weight: 1
+      - path: Palatine_bone_L
+        weight: 1
+      - path: Palatine_bone_R
+        weight: 1
+      - path: Parietal_bone_L
+        weight: 1
+      - path: Parietal_bone_R
+        weight: 1
+      - path: Sphenoid_bone
+        weight: 1
+      - path: teeth1
+        weight: 1
+      - path: teeth2
+        weight: 1
+      - path: teeth3
+        weight: 1
+      - path: teeth4
+        weight: 1
+      - path: teeth5
+        weight: 1
+      - path: teeth6
+        weight: 1
+      - path: teeth7
+        weight: 1
+      - path: teeth8
+        weight: 1
+      - path: teeth9
+        weight: 1
+      - path: teeth10
+        weight: 1
+      - path: teeth11
+        weight: 1
+      - path: teeth12
+        weight: 1
+      - path: teeth13
+        weight: 1
+      - path: teeth14
+        weight: 1
+      - path: teeth15
+        weight: 1
+      - path: teeth16
+        weight: 1
+      - path: teeth17
+        weight: 1
+      - path: teeth18
+        weight: 1
+      - path: teeth19
+        weight: 1
+      - path: teeth20
+        weight: 1
+      - path: teeth21
+        weight: 1
+      - path: teeth22
+        weight: 1
+      - path: teeth23
+        weight: 1
+      - path: teeth24
+        weight: 1
+      - path: teeth25
+        weight: 1
+      - path: teeth26
+        weight: 1
+      - path: teeth27
+        weight: 1
+      - path: teeth28
+        weight: 1
+      - path: teeth29
+        weight: 1
+      - path: teeth30
+        weight: 1
+      - path: teeth31
+        weight: 1
+      - path: teeth32
+        weight: 1
+      - path: Temporal_bone_L
+        weight: 1
+      - path: Temporal_bone_R
+        weight: 1
+      - path: Vomer
+        weight: 1
+      - path: Zygomatic_bone_L
+        weight: 1
+      - path: Zygomatic_bone_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
